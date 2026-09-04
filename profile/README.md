@@ -13,17 +13,9 @@
   </picture>
 </p>
 
-<h1 align="center">Ryme Labs</h1>
-
 <p align="center">
   Building AI, Cybersecurity, and Developer Infrastructure.
 </p>
-
-<p align="center">
-  <a href="https://github.com/Ryme-Labs">GitHub</a>
-</p>
-
----
 
 Ryme Labs is a software development company based in Chennai, India, focused on building technology in artificial intelligence, cybersecurity, and developer tooling.
 
@@ -77,12 +69,6 @@ We actively maintain our open source software and welcome bug reports, feature r
 ## Contributing
 
 We welcome contributions from developers around the world. Whether it's reporting bugs, suggesting features, improving documentation, or submitting pull requests, every contribution helps make our projects better.
-
-## Connect
-
-- GitHub: https://github.com/Ryme-Labs
-
----
 
 <p align="center">
   <sub>© Ryme Labs • Chennai, India</sub>
