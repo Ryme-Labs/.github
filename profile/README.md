@@ -45,15 +45,13 @@ We believe the best software is built in the open. Our projects are created to s
 
 A modern virtualization and infrastructure management platform focused on simplicity, performance, and scalable self-hosted deployments.
 
-**Repository:**  
-https://github.com/Ryme-Labs/rymevisor
+**Repository:** [Rymevisor](https://github.com/Ryme-Labs/rymevisor)
 
 ### Ryme Skill
 
 An ecosystem for building, sharing, and integrating reusable AI skills and developer workflows across applications.
 
-**Repository:**  
-https://github.com/Ryme-Labs/ryme-skill
+**Repository:** [Ryme-skill](https://github.com/Ryme-Labs/ryme-skill)
 
 We actively maintain our open source software and welcome bug reports, feature requests, discussions, and community contributions.
 
