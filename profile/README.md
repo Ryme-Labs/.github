@@ -57,19 +57,6 @@ https://github.com/Ryme-Labs/ryme-skill
 
 We actively maintain our open source software and welcome bug reports, feature requests, discussions, and community contributions.
 
-## Technology Focus
-
-- High-performance backend systems
-- AI infrastructure and tooling
-- Cloud-native applications
-- Automation platforms
-- Developer experience
-- Security-first architecture
-
-## Contributing
-
-We welcome contributions from developers around the world. Whether it's reporting bugs, suggesting features, improving documentation, or submitting pull requests, every contribution helps make our projects better.
-
 <p align="center">
   <sub>© Ryme Labs • Chennai, India</sub>
 </p>
