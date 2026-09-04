@@ -19,3 +19,20 @@ Good software should be efficient, robust, and designed well. Our focus lies in 
 * Create products that are performant and robust.
 * Security comes first in everything we do.
 * Learning, iterating, improving continuously.
+
+## Open Source
+
+We believe that great software is built in the open. Our open source projects aim to solve real engineering challenges while providing developers with high-quality, production-ready tools.
+
+### Featured Projects
+
+- **RymeVisor**  
+  A modern virtualization and infrastructure management platform focused on simplicity, performance, and scalable self-hosted deployments.  
+  https://github.com/Ryme-Labs/rymevisor
+
+- **Ryme Skill**  
+  An open ecosystem for building, sharing, and integrating reusable AI skills and developer workflows across applications.  
+  https://github.com/Ryme-Labs/ryme-skill
+
+We actively maintain and improve our open source software, welcoming contributions, bug reports, feature requests, and community feedback.
+
